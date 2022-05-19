@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PrintMyName" />
-        <module name="TriangleArea" />
         <module name="TrianglePerimeterWithInput" />
         <module name="TrianglePerimeter" />
         <module name="PineTree" />
         <module name="TriangleAreaWithInput" />
+        <module name="trianglePerimeterWithInput" />
+        <module name="TriangleArea" />
       </profile>
     </annotationProcessing>
   </component>
