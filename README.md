@@ -1,4 +1,6 @@
 # MMHomework
 Contains homework from MentorMate Academy
 
-Some content heres
+Contains JAVA code.
+
+Some content here
