@@ -15,6 +15,7 @@
         <module>PineTree</module>
         <module>trianglePerimeterWithInput</module>
         <module>TriangleAreaWithInput</module>
+        <module>OperatorsExpressionsConditionalsLoops</module>
     </modules>
 
     <properties>
