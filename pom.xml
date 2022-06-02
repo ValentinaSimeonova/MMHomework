@@ -16,6 +16,7 @@
         <module>trianglePerimeterWithInput</module>
         <module>TriangleAreaWithInput</module>
         <module>OperatorsExpressionsConditionalsLoops</module>
+        <module>DataStructure</module>
     </modules>
 
     <properties>
