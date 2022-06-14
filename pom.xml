@@ -17,6 +17,7 @@
         <module>TriangleAreaWithInput</module>
         <module>OperatorsExpressionsConditionalsLoops</module>
         <module>DataStructure</module>
+        <module>ExceptionHandling</module>
     </modules>
 
     <properties>
