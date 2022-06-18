@@ -18,6 +18,8 @@
         <module>OperatorsExpressionsConditionalsLoops</module>
         <module>DataStructure</module>
         <module>ExceptionHandling</module>
+        <module>IntroductionInOOP</module>
+        <module>OOPPractice</module>
     </modules>
 
     <properties>
